@@ -44,7 +44,10 @@ Users should be able to:
     - Center - Positions items in the center of the container.
     - Space-between: Items will have space between them.
 - align-items: center - aligns the flex items in the middle of the container
-
+- transition:
+    - Ease-in-out: Specifies a transition effect with slow start and slow end
+- transform: translate(), rotate().
+- Opacity.
 
 ### Continued development
 
