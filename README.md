@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://mikelkn.github.io/nft-preview-card-project-1/)
-- Live Site URL: [Add live site URL here](https://mikelkn.github.io/nft-preview-card-project-1/)
+- Solution URL: [Click here](https://mikelkn.github.io/nft-preview-card-project-1/)
+- Live Site URL: [Click here](https://mikelkn.github.io/nft-preview-card-project-1/)
 
 ## My process
 
