@@ -47,7 +47,7 @@ Users should be able to:
 - transition:
     - Ease-in-out: Specifies a transition effect with slow start and slow end
 - transform: translate(), rotate().
-- Opacity.
+- Opacity
 
 ### Continued development
 
